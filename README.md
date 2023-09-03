@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__ = 'SBSoltau'
 __version__ = '1.0.1'
 __description__ = 'Gráficos e Diagramas da Relatividade Especial'
 __Date__ = '2023-06-03'
